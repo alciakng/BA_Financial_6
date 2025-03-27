@@ -10,9 +10,16 @@
 
 ## 📁 프로젝트 구성
 
-<img width="197" alt="image" src="https://github.com/user-attachments/assets/410e289d-f095-470c-aa18-ad5773fac7bb" />
-
-<pre> 📦 BA_Finance_6 ├── 📁 dataset/ # 원본 데이터 CSV 파일들 │ ├── 차주정보.csv │ ├── 개인대출정보.csv │ └── ... 기타 데이터셋 ├── 📄 common_code.py # 공통 코드 static 클래스 정의 ├── 📄 data_builder.py # 데이터 로딩 및 병합 클래스 ├── 📄 data_visualizer.py # 시각화 전용 클래스 ├── 📄 main.py # 메인 실행 파일 └── 📄 README.md # 프로젝트 설명 파일 </pre>
+<pre> 📦 BA_Finance_6 
+  ├── 📁 dataset/ # 원본 데이터 CSV 파일들
+  ├── 차주정보.csv 
+  ├── 개인대출정보.csv 
+  │ └── ... 기타 데이터셋 
+  ├── 📄 common_code.py # 공통 코드 static 클래스 정의 
+  ├── 📄 data_builder.py # 데이터 로딩 및 병합 클래스 
+  ├── 📄 data_visualizer.py # 시각화 전용 클래스 
+  ├── 📄 main.py # 메인 실행 파일 
+  └── 📄 README.md # 프로젝트 설명 파일 </pre>
 
 - 데이터셋은 보안상 repository에 올리지 않습니다.
 - 신용정보원 AI 학습장(https://ailp.kcredit.or.kr:3446/frt/main.do) 에서 모의데이터를 신청하여 사용가능합니다.
