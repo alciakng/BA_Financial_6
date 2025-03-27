@@ -52,3 +52,12 @@ pandas, matplotlib, seaborn, matplotlib.pyplot
 ## 테이블 ERD 모델링 
 ![ERD 모델링](https://github.com/user-attachments/assets/a17dbd44-6ce3-48ad-b76a-077e48b80de8)
 
+---
+
+## 시각화
+
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/6acab572-66f2-40c0-a6e2-63dfc18f342e" />
+<img width="651" alt="image" src="https://github.com/user-attachments/assets/2daac745-8a20-4e06-bd1c-408e7408e6da" />
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/9251f102-63ce-43d2-bcfc-a7c242a75ce7" />
+
+
