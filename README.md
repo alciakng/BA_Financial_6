@@ -1,8 +1,9 @@
 # 📊 BA_Financial_6
 
 금융 데이터 기반 분석 프로젝트입니다.  
-차주, 대출, 신용카드, 연체정보 등의 다양한 데이터셋을 통합하고 시각화하여 인사이트를 도출합니다.
 
+### 차주, 대출, 신용카드, 연체정보 등의 다양한 데이터셋을 통합하고 시각화하여 인사이트를 도출합니다.
+### 소상공인 금융포용정책(정책자금, 새출발기금) 이후 연체율을 예측하고, 도덕적해이 연체율을 예측하여 금융포용정책의 실행력을 제고하는 데 목적이 있습니다.
 ---
 
 ## 📁 프로젝트 구성
@@ -31,12 +32,12 @@
 BA_Financial_6/ ├── dataset/ │ ├── 차주정보.csv │ ├── 개인대출정보.csv │ └── ... 기타 데이터셋들 ├── common_code.py ├── data_builder.py ├── data_visualizer.py ├── main.py └── README.md
 
 
-##🔧 의존 라이브러리
+## 🔧 의존 라이브러리
 pandas
 matplotlib
 seaborn
 squarify (옵션)
 
-##� 테이블 ERD 모델링 
+## 테이블 ERD 모델링 
 ![ERD 모델링](https://github.com/user-attachments/assets/a17dbd44-6ce3-48ad-b76a-077e48b80de8)
 
